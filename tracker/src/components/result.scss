@@ -1,0 +1,14 @@
+.result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    background-color: yellow;
+    padding: 1.5rem;
+
+    .data{
+        display: flex;
+        flex-direction: column;
+        flex:1;
+    }
+}
